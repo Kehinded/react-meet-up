@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-meet-up/static/css/main.bf093ef5.chunk.css",
+    "main.js": "/react-meet-up/static/js/main.6e38cb55.chunk.js",
+    "main.js.map": "/react-meet-up/static/js/main.6e38cb55.chunk.js.map",
+    "runtime-main.js": "/react-meet-up/static/js/runtime-main.ce7ef281.js",
+    "runtime-main.js.map": "/react-meet-up/static/js/runtime-main.ce7ef281.js.map",
+    "static/js/2.39d8a2d5.chunk.js": "/react-meet-up/static/js/2.39d8a2d5.chunk.js",
+    "static/js/2.39d8a2d5.chunk.js.map": "/react-meet-up/static/js/2.39d8a2d5.chunk.js.map",
+    "index.html": "/react-meet-up/index.html",
+    "static/css/main.bf093ef5.chunk.css.map": "/react-meet-up/static/css/main.bf093ef5.chunk.css.map",
+    "static/js/2.39d8a2d5.chunk.js.LICENSE.txt": "/react-meet-up/static/js/2.39d8a2d5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ce7ef281.js",
+    "static/js/2.39d8a2d5.chunk.js",
+    "static/css/main.bf093ef5.chunk.css",
+    "static/js/main.6e38cb55.chunk.js"
+  ]
+}
