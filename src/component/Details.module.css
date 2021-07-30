@@ -1,0 +1,14 @@
+/* .details{
+   width: 100%;
+   display: grid;
+   grid-template-columns: repeat(auto-fit, minmax(37rem, 1fr));
+   grid-gap: 2rem;
+   background-color: red;
+} */
+
+.wrapper{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(20rem, 25rem));
+    grid-gap: 2rem;
+    padding: 2rem;
+}
